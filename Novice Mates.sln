@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Novice Mates", "Novice Mates.vcxproj", "{EB40C422-B3EC-49DB-87FF-0E96A73EFE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB40C422-B3EC-49DB-87FF-0E96A73EFE5E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB40C422-B3EC-49DB-87FF-0E96A73EFE5E}.Debug|Win32.Build.0 = Debug|Win32
+		{EB40C422-B3EC-49DB-87FF-0E96A73EFE5E}.Release|Win32.ActiveCfg = Release|Win32
+		{EB40C422-B3EC-49DB-87FF-0E96A73EFE5E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
